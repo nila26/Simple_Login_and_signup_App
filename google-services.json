@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444141650646",
+    "firebase_url": "https://smart-basket-cf02e.firebaseio.com",
+    "project_id": "smart-basket-cf02e",
+    "storage_bucket": "smart-basket-cf02e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444141650646:android:31ccf36ecfcbcea2967f77",
+        "android_client_info": {
+          "package_name": "com.example.kolkatadev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444141650646-tidni6vi9ratftghu9pqtstqnfh7f7nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrU3wpaoXbKaJzvlQwLwxZBsGQR1iq4xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444141650646-tidni6vi9ratftghu9pqtstqnfh7f7nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
